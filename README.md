@@ -1,2 +1,3 @@
 # PandasEssentials
-Overview on Pandas - starter
+Overview on Pandas
+Pandas Tutorial Workshop, NeurocogLab 2020
